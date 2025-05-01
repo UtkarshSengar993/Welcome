@@ -1,2 +1,3 @@
 # Welcome
-This is my first Git Repo.
+This is my first Git Repository.
+I'm Utkarsh S Sengar.
